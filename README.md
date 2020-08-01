@@ -22,4 +22,6 @@
 6. 6_TBD
 	- データベースの作り方・ノウハウなどを説明します。
 	
+- https://kanhatakeyama.github.io/
+	
 	
