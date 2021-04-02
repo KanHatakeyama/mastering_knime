@@ -1,6 +1,8 @@
 # Mastering KNIME
 - KNIMEと呼ばれる無料ツールを使い、マテリアルズ・インフォマティクス(MI)の概観習得に挑戦します。
 - 基本的に具体的な操作のみを解説します。理論的背景等は他所の文献等を参考にして下さい。
+- 以下に解説動画があります。
+- https://www.youtube.com/playlist?list=PLZfsp9OFqRVkQ720ZSHnffSXXaU3mnA67
 
 # 対象
 - 化学の基本的知識がある方
@@ -17,10 +19,6 @@
 	- 欠損データの処理法等を説明します。 
 4. 4_various_models
 	- Pythonの機能を使い、多彩な回帰モデルを使えるようにします。
-5. 5_TBD
-	- 公開されているMI論文のトレースをして、実践形式で経験を積みます。
-6. 6_TBD
-	- データベースの作り方・ノウハウなどを説明します。
 	
 - https://kanhatakeyama.github.io/
 	
